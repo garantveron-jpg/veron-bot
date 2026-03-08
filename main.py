@@ -1,4 +1,4 @@
-𝑉𝑒𝑟𝑜𝑛_𝐺𝑎𝑟𝑎𝑛𝑡:
+
 import logging
 import re
 from datetime import datetime
